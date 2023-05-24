@@ -1,5 +1,6 @@
 
-  @import url('https://fonts.googleapis.com/css2?family=Finger+Paint&family=Londrina+Solid:wght@300;400&family=Righteous&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;1,8..144,500&family=Work+Sans:ital,wght@0,300;0,400;0,600;0,800;1,100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Finger+Paint&family=Londrina+Solid:wght@300;400&family=Righteous&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;1,8..144,500&family=Work+Sans:ital,wght@0,300;0,400;0,600;0,800;1,100&display=swap');
 
 
 *{
@@ -74,7 +75,7 @@ body{
 .item .titulo::after{
     position: absolute;
     content: "";
-    width: 0;
+    width: 0%;
     height: 120%;
     background-color: #371c4d;
     left: 0;
